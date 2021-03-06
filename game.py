@@ -7,7 +7,7 @@ import random
 hero_hp = 50
 dragon_hp = 100
 hero_max_dmg = 20
-dragon_max_dmg = 10
+dragon_max_dmg = 15
 
 print("The dragon with", dragon_hp, "hp attacks out hero with", hero_hp, "hp")
 
